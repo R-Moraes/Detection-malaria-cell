@@ -2,5 +2,5 @@ streamlit
 tensorflow
 numpy
 pandas
-opencv-contrib-python-headless
+cv2 => 4.4.0.42
 PiL
